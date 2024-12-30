@@ -1,0 +1,6 @@
+<{>
+<STR, "hello there">
+<:>
+<STR, "hi">
+<,>
+<}>

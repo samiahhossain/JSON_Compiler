@@ -1,0 +1,15 @@
+<[>
+<NUM, 0>
+<,>
+<NUM, 1>
+<,>
+<{>
+<STR, "one">
+<:>
+<BOOL, true>
+<,>
+<STR, "two">
+<:>
+<BOOL, false>
+<]>
+

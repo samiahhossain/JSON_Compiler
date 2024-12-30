@@ -1,0 +1,9 @@
+<{>
+<STR, "isStudent">
+<:>
+<BOOL, true>
+<,>
+<STR, "middleName">
+<:>
+<NULL>
+<}>
