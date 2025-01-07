@@ -1,0 +1,5 @@
+{
+  "quote": "He said, \"Hello, World!\"",
+  "newline": "Line1\nLine2",
+  "tab": "Item1\tItem2"
+}

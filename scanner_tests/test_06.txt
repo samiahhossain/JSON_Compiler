@@ -1,0 +1,4 @@
+{
+  "temperatures": [-12.5, 0, 15, 30.1e4, 1E-3],
+  "rain": false
+}
